@@ -1,7 +1,20 @@
 {
   "version": "0.2.0",
   "configurations": [
-    
+    {
+      "type": "java",
+      "name": "hello",
+      "request": "launch",
+      "mainClass": "hello",
+      "projectName": "linguagens_62657e9"
+    },
+    {
+      "type": "java",
+      "name": "OlaMundo",
+      "request": "launch",
+      "mainClass": "OlaMundo",
+      "projectName": "linguagens_62657e9"
+    },
     {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
